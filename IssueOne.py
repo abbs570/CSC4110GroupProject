@@ -2,8 +2,10 @@
 #Begin Abigail Noyes 2/2/2020
 
 class Number:
+
+    number = int(input("Enter a number: "))
+    print (((number + 2) * 3 - 6) / 3)
     
-
-
-# Revision #1 End Date:
-#Group 7 / Manager : Mina Stanton / Lead Teach: Abigail Noyes / Project #1
+    
+# Revision #1 End Date: 2/4/2022
+#End Abigail Noyes / Project #1
