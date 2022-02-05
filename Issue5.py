@@ -8,7 +8,7 @@ class PiratesLife:
     treasure = {}
     while True:
         item = input("What would you like to add to the treasure chest?: ")
-        numberOfItems = input("How many" + item + "like to add to the treasure chest?: " )
+        numberOfItems = input("How much " + item + " do you wanr to add?: " )
         addingItems = input("Would you like to add more items? (type 'y' for yes and 'n' for no) : ")
         if addingItems == 'n':
             break
